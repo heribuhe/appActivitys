@@ -17,6 +17,9 @@
       <SelectionState runConfigName="bienvenidaVentana (2)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="bienvenida_usuario">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
